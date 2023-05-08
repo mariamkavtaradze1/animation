@@ -1,0 +1,386 @@
+
+/*სივრცე 1*/
+.container{
+    width: 100%;
+    height: 200px;
+}
+.cont1{
+    font-size: 30px;
+    margin-left: 550px;
+}
+small{
+    font-size: 10px;
+    margin-left: 590px;
+}
+.menu{
+    display: inline-block;
+    width: 130px;
+    height: 50px;
+    border: 1px solid black;
+    text-align: center;
+    margin-left: 450px;
+}
+.menu:hover{
+    background-color: black;
+    color: #ffffff;
+}
+
+/*სივრცე 2*/
+
+.container2{
+    width: 100%;
+    height: 710px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
+.cont2{
+    width: 50%;
+    height: 700px;
+    border-top: 1px solid black;
+    border-right: 1px solid black ;
+}
+.cont21{
+    width: 50%;
+    height: 700px;
+    border-top: 1px solid black;
+}
+.img{
+    width: 70%;
+    height: 80%;
+    margin: auto;
+    margin-top: 60px;
+    animation-name: changeimg;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+}
+
+.text1{
+    width: 70%;
+    height: 65%;
+    margin: auto;
+    margin-top: 100px;
+    
+}
+.text11{
+    font-size: 30px;
+
+}
+.text12{
+    font-size: 18px;
+    text-align: justify;
+    padding-top: 50px;
+
+}
+
+/*სივრცე 3*/
+
+.wrapper {
+    max-width: 100%;
+    overflow: hidden;
+    border-top: 1px solid black;
+
+  }
+  
+  .marquee {
+    white-space: nowrap;
+    overflow: hidden;
+    display: inline-block;
+    animation: marquee 10s linear infinite;
+  }
+  
+  .marquee p {
+    display: inline-block;
+  }
+
+
+/*სივრცე 4*/
+
+.container4{
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+    width: 100%;
+    height: 400px;
+}
+
+.cont4{
+    width: 45%;
+    height: 70%;
+    margin: auto;
+    margin-top: 100px;
+}
+.text21{
+    font-size: 16px;
+    text-align: center;
+
+   
+}
+.text22{
+    font-size: 34px;
+    text-align: center;
+}
+
+/*სივრცე 5*/
+.container5{
+    width: 100%;
+    height: 1000px;
+    border-bottom: 1px solid black;
+}
+.cont5{
+    width: 100%;
+    height: 65%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 70px;
+}
+.text31{
+    text-align: center;
+    padding-top: 100px;
+}
+.img6{
+    width: 350px;
+    height: 95%;
+    border: 1px solid black;
+
+}
+.img7{
+    width: 350px;
+    height: 95%;
+    border: 1px solid black;
+}
+.img8{
+    width: 350px;
+    height: 95%;
+    border: 1px solid black;
+}
+
+
+.text32{
+    font-size: 14px;
+    text-align: center;
+    margin-top: 30px;
+}
+.img61{
+    width: 80%;
+    height: 60%;
+    margin-left: 35px;
+    margin-top: 40px;
+}
+.text33{
+    font-size: 14px;
+    text-align: center;
+    width: 80%;
+    height: 40px;
+    border: 1px solid black;
+    margin: auto;
+    margin-top: 50px;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+
+.text34{
+    font-size: 14px;
+    text-align: center;
+    margin-top: 30px;
+}
+.img71{
+    width: 80%;
+    height: 60%;
+    margin-left: 35px;
+    margin-top: 40px;
+}
+.text35{
+    font-size: 14px;
+    text-align: center;
+    width: 80%;
+    height: 40px;
+    border: 1px solid black;
+    margin: auto;
+    margin-top: 50px;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+
+.text36{
+    font-size: 14px;
+    text-align: center;
+    margin-top: 30px;
+}
+.img81{
+    width: 80%;
+    height: 60%;
+    margin-left: 35px;
+    margin-top: 40px;
+}
+.text37{
+    font-size: 14px;
+    text-align: center;
+    width: 80%;
+    height: 40px;
+    border: 1px solid black;
+    margin: auto;
+    margin-top: 50px;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+.text33:hover{
+    background-color:#31291c ;
+    color: #ffffff;
+}
+.text35:hover{
+    background-color:#31291c ;
+    color: #ffffff;
+}
+.text37:hover{
+    background-color:#31291c ;
+    color: #ffffff;
+}
+
+/*სივრცე 6*/
+
+
+.container6{
+    width: 100%;
+    height: 700px;
+    border-bottom: 1px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.text4{
+    width: 50%;
+    height: 700px;
+    border-right: 1px solid black;
+}
+.text41{
+    width: 400px;
+    font-size: 32px;
+    padding-top: 100px;
+    text-align: start;
+    padding-left: 120px;
+}
+.text42{
+    width: 400px;
+    font-size: 20px;
+    padding-top: 50px;
+    text-align: start;
+    padding-left: 120px;
+}
+
+.img9{
+    width: 50%;
+}
+.img91{
+    width: 60%;
+    height: 60%;
+    padding-left: 150px;
+}
+
+/*სივრცე 7*/
+
+.container7{
+    width: 100%;
+    height: 350px;
+    border-bottom: 1px solid black;
+}
+.text5{
+    font-size: 32px;
+    width: 35%;
+    text-align: center;
+    padding-left: 420px;
+    padding-top: 90px;
+}
+
+
+/*სივრცე 8*/
+
+.container8{
+    width: 100%;
+    height: 600px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.text6{
+    width: 50%;
+    height: 600px;
+}
+.text61{
+    font-size: 18px;
+    width: 70%;
+    padding-left: 100px;
+    padding-top: 150px;
+}
+.cont81{
+    width: 50%;
+    height: 600px;
+
+}
+.cont82{
+    border: 1px solid black;
+    width: 80%;
+    height: 70%;
+    margin-left: 60px;
+    margin-top: 70px;
+}
+.text63{
+    text-align: center;
+    padding-top: 30px;
+
+}
+.text64{
+    font-size: 30px;
+    text-align: center;
+    width: 80%;
+    padding-left: 60px;
+    
+}
+.form1{
+    padding-left: 60px;
+    
+}
+.input1{
+    width: 80%;
+    height: 40px;
+    text-align: center;
+    border: 1px solid black;
+}
+input[type=submit]{
+    background-color: #ffffff;  
+}
+
+
+/*სივრცე 9*/
+
+.container9{
+    width: 100%;
+    height: 80px;
+}
+
+.text7{
+    width: 100%;
+    height: 80px;
+    text-align: center;
+    font-size: 14px;
+    padding-top: 20px;
+
+}
+
+
+/*სივრცე 10*/
+
+footer{
+    width: 100%;
+    height: 80px;
+    background-color: #31291c;
+    text-align: center;
+    font-size: 12px;
+    color: #ffffff;
+    padding-top: 30px;
+    box-sizing: border-box;
+}
